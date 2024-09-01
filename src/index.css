@@ -1,0 +1,26 @@
+.App {
+  text-align: center;
+}
+
+.fiis-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.fii-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  margin: 10px;
+  width: 200px;
+  text-align: left;
+}
+
+.fii-card h3 {
+  margin: 0 0 10px;
+}
+
+.fii-card p {
+  margin: 5px 0;
+}
